@@ -20,3 +20,19 @@
 .App-link {
   color: #09d3ac;
 }
+
+.NavLink{
+padding:8px;
+color: rgba(255,255,255,.5); 
+display: block;
+text-decoration: none;
+}
+
+nav a:hover { 
+  text-decoration: none;
+  color: white;
+}
+
+
+
+
